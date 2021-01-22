@@ -1,2 +1,2 @@
 # kokoa
-html and css
+Cloning KakaoTalk with HTML and CSS
